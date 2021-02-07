@@ -1,0 +1,103 @@
+Excel Business Analytics YouTube Learning Playlist File Downmloads:
+
+Download files for video #01:
+BI348Chapter01.pptx
+
+Download files for video #02-11:
+BI348Chapter07.pptx
+BI348Chapter07Start.xlsm
+BI348Chapter07Finished.xlsm
+BI348Chapter07-SecondFile.xlsx
+Excel'sGoldenRule.docx
+
+Download files for video #12-26:
+BI348Chapter02.pptx
+BI348Chapter02Start.xlsx
+BI348Chapter02Finished.xlsx
+NormalDistributionExcelFunctionsEmpirical RuleNotes.pdf
+
+Download files for video #27:
+BI348-Chapter02.5-ExcelDataTransformMethods.xlsx
+BI348-Chapter02.5-ExcelDataTransformMethodsFinished.xlsx
+Download files for videos #28 & 29 & 30:
+Import-01-TxtCvsFiles.zip
+BI348-Chapter02.5-Import01-TextFiles.xlsx
+BI348-Chapter02.5-Import01-TextFilesFinished.xlsx
+BI348-Chapter02.5-Import01-TextFilesFinishedNoDataModel.xlsx
+Download files for video #31:
+Import-02-ExcelFilesOneSheetEach.zip 
+BI348-Chapter02.5-Import02.xlsx
+BI348-Chapter02.5-Import02Finished.xlsx
+Download files for videos #32:
+Import-03-ExcelFilesMultipleSheetsEach.zip
+BI348-Chapter02.5-Import03.xlsx
+BI348-Chapter02.5-Import03Finished.xlsx
+Download files for videos #33:
+Import-04-ExcelNotProperDataSets.zip
+BI348-Chapter02.5-Import04.xlsx
+BI348-Chapter02.5-Import04Finished.xlsx
+Download files for videos #34:
+Import-05-SeparateFileTypes.zip
+BI348-Chapter02.5-Import05.xlsx
+BI348-Chapter02.5-Import05Finished.xlsx
+Download files for videos #35:
+BI348-Chapter02.5-Import06.xlsx
+BI348-Chapter02.5-Import06Finished.xlsx
+Download files for videos #36 & 37:
+BI348-Chapter02.5-Import07.xlsx
+BI348-Chapter02.5-Import07Finished.xlsx
+Download files for videos #38:
+Import-08-4MillionsRowsIntoDataModel.zip
+BI348-Chapter02.5-Import08-TextFiles.xlsx
+BI348-Chapter02.5-Import08-TextFilesFinished.xlsx
+BI348-Chapter02.5-Import08-ExcelFiles.xlsx
+BI348-Chapter02.5-Import08-ExcelFilesFinished.xlsx
+Download files for videos #39:
+Import-09-SalesTable.txt
+Import-09-SR-RegionTable.xlsx
+BI348-Chapter02.5-Import09.xlsx
+BI348-Chapter02.5-Import09Finished.xlsx
+
+Download files for videos #40 & 41:
+BI348-Chapter02.75-PowerPivot.pptx
+BI348-Chapter02.75Example01Start.xlsx
+BI348-Chapter02.75Example01Finished.xlsx
+
+Download files for videos #42:
+BI348-Chapter02.75Example02-SourceData.zip
+BI348-Chapter02.75Example02Start.xlsx
+BI348-Chapter02.75Example02Finished.xlsx  
+
+Download files for videos #43:
+BI348-Chapter03.pptx
+Chapter03/BI348Chapter03.xlsx
+
+ 
+
+Download files for video #44-52:
+BI348-Chapter04.xlsm
+BI348-Chapter04.pptx
+Linear Regression Slope Deductive Proof.pdf (If you want)
+
+Download files for video #52-56:
+BI348-Chapter05.xlsx
+BI348-Chapter05.pptx 
+
+Download files for video #57-63:
+BI348-Chapter08.xlsx
+BI348-Chapter08.pptx
+
+Download files for videos #64-69:
+Chapter11/BI348-Chapter11.pptx
+BI348-Chapter11-Video64-IntroToSimulation.xlsx
+BI348-Chapter11-Video65-CreatingRandomVariables.xlsx
+BI348-Chapter11-Video66-NewProduct.xlsx
+BI348-Chapter11-Video67-MarketingAnalysis.xlsx
+BI348-Chapter11-Video68-ConstructionSequentialProject.xlsx
+BI348-Chapter11-Video69-Baseball.xlsx
+
+ 
+
+ 
+
+ 
